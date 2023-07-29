@@ -19,7 +19,7 @@
 5. 写回模块
 6. 控制模块
 - control：控制器，根据指令中 opcode、func3、func7 的值得到各个器件的控制信号
-![image](https://github.com/YounG-0516/RISC-V-miniCPU/blob/main/proj_single_cycle/RISCV-CPU-single.png))
+![image](https://github.com/YounG-0516/RISC-V-miniCPU/blob/main/proj_single_cycle/RISCV-CPU-single.png)
 
 ## 流水线CPU设计与实现
 模块说明：
